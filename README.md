@@ -4,5 +4,5 @@ I create a project that you can search github usernames and see their details wi
 # Screenshot
 Here i have project screenshot :
 
-![screenshot](Screenshot(201).png)
+![screenshot](Screenshot.png)
 
